@@ -14,3 +14,6 @@
   * A - To move the tile right
   * S - To move the tile up
   * D - To move the tile left
+ 
+## Requirements
+#### A C compiler (e.g., GCC)
