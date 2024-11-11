@@ -17,3 +17,6 @@
  
 ## Requirements
 #### A C compiler (e.g., GCC)
+
+## How to run
+1. Clone the repository:
