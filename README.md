@@ -10,4 +10,7 @@
   9   10  11  12
   13  14  15  0
 * The player can move the tiles around the empty space using the following controls:
-  * W
+  * W - To move the tile down
+  * A - To move the tile right
+  * S - To move the tile up
+  * D - To move the tile left
