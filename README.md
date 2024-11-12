@@ -10,7 +10,7 @@
 | --- | --- | --- | --- |
 |  1  |  7  | 11  |  8  |
 | 14  |  3  | 10  | 12  |
-|  5  |  4  | 13  |  0  |
+|  5  |  4  | 13  |     |
 
 * The player can move the tiles around the empty space using the following controls:
   * `W` - To move the tile down
