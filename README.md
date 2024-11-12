@@ -5,28 +5,38 @@
 ## Game Overview
 * The game board is a 4x4 grid, with 15 numbered tiles (1-15) and 1 empty space (represented by 0).
 * The goal is to arrange the tiles in the correct order:
-  1   2   3   4
+  `1   2   3   4
   5   6   7   8
   9   10  11  12
-  13  14  15  0
+  13  14  15  0`
 * The player can move the tiles around the empty space using the following controls:
-  * W - To move the tile down
-  * A - To move the tile right
-  * S - To move the tile up
-  * D - To move the tile left
+  * `W` - To move the tile down
+  * `A` - To move the tile right
+  * `S` - To move the tile up
+  * `D` - To move the tile left
  
 ## Requirements
 #### A C compiler (e.g., GCC)
 
 ## How to run
 1. Clone the repository:
-`` ```bash
-  git clone https://github.com/yourusername/Arrange-Puzzle-Game.git
-  cd Arrange-Puzzle-Game
-``
+  ```bash
+    git clone https://github.com/yourusername/Arrange-Puzzle-Game.git
+    cd Arrange-Puzzle-Game
+  ```
 
-3. Compile the program:
+2. Compile the program:
+  ```bash
+    gcc -o arrange-puzzle-game main.c
+  ```
 
-`` ```bash
-  gcc -o arrange-puzzle-game main.c
-``
+3. Run the game:
+   ```bash
+   ./arrange-puzzle-game
+   ```
+
+## Controls
+* `W` - To move the tile down
+* `A` - To move the tile right
+* `S` - To move the tile up
+* `D` - To move the tile left
