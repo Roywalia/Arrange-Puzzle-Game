@@ -6,11 +6,11 @@
 * The game board is a 4x4 grid, with 15 numbered tiles (1-15) and 1 empty space (represented by 0).
 * The goal is to arrange the tiles in the correct order:
 
-|  1  |  2  |  3  |  4  |
+| 15  |  2  |  6  |  9  |
 | --- | --- | --- | --- |
-|  5  |  6  |  7  |  8  |
-|  9  | 10  | 11  | 12  |
-| 13  | 14  | 15  |  0  |
+|  1  |  7  | 11  |  8  |
+| 14  |  3  | 10  | 12  |
+|  5  |  4  | 13  |  0  |
 
 * The player can move the tiles around the empty space using the following controls:
   * `W` - To move the tile down
