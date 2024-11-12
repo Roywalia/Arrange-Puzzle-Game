@@ -20,14 +20,13 @@
 
 ## How to run
 1. Clone the repository:
-``
-```bash
+`` ```bash
   git clone https://github.com/yourusername/Arrange-Puzzle-Game.git
-  cd Arrange-Puzzle-Game ``
+  cd Arrange-Puzzle-Game
+``
 
 3. Compile the program:
 
-``
-```bash
+`` ```bash
   gcc -o arrange-puzzle-game main.c
 ``
