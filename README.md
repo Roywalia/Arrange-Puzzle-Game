@@ -21,5 +21,5 @@
 ## How to run
 1. Clone the repository:
 
-``git clone https://github.com/yourusername/Arrange-Puzzle-Game.git
-cd Arrange-Puzzle-Game``
+`git clone https://github.com/yourusername/Arrange-Puzzle-Game.git
+cd Arrange-Puzzle-Game`
