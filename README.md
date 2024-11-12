@@ -22,9 +22,9 @@
 1. Clone the repository:
 `` ```bash
   git clone https://github.com/yourusername/Arrange-Puzzle-Game.git
-  cd Arrange-Puzzle-Game``
+  cd Arrange-Puzzle-Game ``
 
 2. Compile the program:
 
 `` ```bash
-  gcc -o arrange-puzzle-game main.c``
+  gcc -o arrange-puzzle-game main.c ``
